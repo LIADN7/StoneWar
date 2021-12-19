@@ -1,4 +1,7 @@
 # Stone War
+
+![](https://github.com/LIADN7/StoneWar/blob/main/Assets/Mini%20Legion%20Rock%20Golem%20PBR%20HP%20Polyart/Main.png)
+
 Multiplayer game,
 battle between giant ​stones,
 shoot laser at each other to win!
