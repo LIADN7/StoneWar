@@ -7,6 +7,10 @@ battle between giant ​stones,
 shoot laser at each other to win!
 (this is one on one game)
 
+
+ ***[Game link](https://liadn7.itch.io/stonewar)***
+
+
 ### Keys:
 * Arrows to move.
 * Left-click on the mouse to fire a laser.
